@@ -11,3 +11,6 @@ Withdrawal example
 
 ![](https://github.com/Gsilvera24/Solidity_Savings_Account/blob/main/first_withdraw.png)
 
+Last to withdraw functionality.
+
+![](https://github.com/Gsilvera24/Solidity_Savings_Account/blob/main/last_to_withdraw.png)
